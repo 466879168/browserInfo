@@ -1,0 +1,22 @@
+{
+  "name": "browserinfo",
+  "version": "1.0.0",
+  "description": "Get browser information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/466879168/browserInfo.git"
+  },
+  "keywords": [
+    "browser"
+  ],
+  "author": "dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/466879168/browserInfo/issues"
+  },
+  "homepage": "https://github.com/466879168/browserInfo#readme"
+}
