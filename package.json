@@ -1,5 +1,5 @@
 {
-  "name": "systemAndBrowserInfo",
+  "name": "dylan-browser-info",
   "version": "1.0.0",
   "description": "Get system and browser  information",
   "private": false,
