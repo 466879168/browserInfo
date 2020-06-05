@@ -1,8 +1,8 @@
 {
-  "name": "browserinfo",
+  "name": "systemAndBrowserInfo",
   "version": "1.0.0",
-  "description": "Get browser information",
-  "main": "index.js",
+  "description": "Get system and browser  information",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
